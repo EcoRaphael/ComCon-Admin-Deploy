@@ -63,7 +63,7 @@ export default function Dashboard() {
           <p className="text-white/50 text-xs uppercase tracking-widest font-bold mb-1">
             CommuterConnect · Calbayog City, Samar
           </p>
-          <h2 className="text-xl font-extrabold leading-tight">Web-Based Transportation Platform</h2>
+          <h2 className="text-xl font-extrabold leading-tight">A Transport Network Vehicle Service</h2>
           <p className="text-white/60 text-sm mt-1">
             Managing tricycles, pedicabs, timbols & multicabs across Calbayog City
           </p>
